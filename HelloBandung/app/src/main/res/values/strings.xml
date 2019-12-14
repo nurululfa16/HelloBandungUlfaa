@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Hello Bandung</string>
+    <string name="name">Nama</string>
+    <string name="question">Pertanyaan</string>
+    <string name="perjalanan">Bagaimana Perjalananmu di Bandung, Menyenangkan?</string>
+    <string name="yes">Iya</string>
+    <string name="no">Tidak</string>
+    <string name="send">Kirim</string>
+    <string name="order_summary_yes">Iya? </string>
+    <string name="order_summary_no">Tidak?</string>
+    <string name="order_summary_name">Nama : <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="order_summary_question">Pertanyaan : <xliff:g example="Amy" id="question">%s</xliff:g></string>
+    <string name="thankyou">Thank You!</string>
+    <string name="order_summary_email_subject">Pertanyaan dari </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
